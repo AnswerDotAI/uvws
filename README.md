@@ -1,6 +1,6 @@
 # uv workspace
 
-`uvws` is a way to get something like a conda base env, but for uv. uv is far from being a full replacement for conda, but if you only need python packages then with uvws you may find it sufficient.
+`uvws` is a way to get something like a conda base env or homedir python, but for uv. uv is far from being a full replacement for conda, but if you only need python packages then with uvws you may find it sufficient.
 
 ## Setup
 
